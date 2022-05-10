@@ -117,7 +117,7 @@ select {
   border-radius: 100px;
   color: white;
 }
-.body .keys-container .tab, .body .keys-container .delet, .body .keys-container .delete {
+.body .keys-container .tab, .body .keys-container .delete {
   width: 91px;
 }
 .body .keys-container .capsLock {
